@@ -10,6 +10,8 @@ Visualize traffic hotspots on an interactive map for better decision-making.
 
 
 📊 Output & Results :
+
+
 Data Analysis :
 Worst traffic hours (e.g., 8 AM, 6 PM).
 High-congestion areas (SQL-queried hotspots).
