@@ -14,9 +14,13 @@ Data Analysis :
 Worst traffic hours (e.g., 8 AM, 6 PM).
 High-congestion areas (SQL-queried hotspots).
 
+
+
 ML Prediction:
 Example: Predicts congestion for 200 cars at 25 km/h at 5 PM.
 Model accuracy score (~80-90%).
+
+
 
 Visualizations:
 Bar Chart: Congestion trends by hour.
